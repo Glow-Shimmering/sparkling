@@ -11,3 +11,7 @@ node_modules/
 *.log
 output/
 outputs/
+
+# Generated discussion notes
+sparkling-whiteboard.md
+sparkling-whiteboard-*.md
